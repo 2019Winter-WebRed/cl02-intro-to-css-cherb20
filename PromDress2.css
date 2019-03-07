@@ -1,0 +1,36 @@
+/*
+* Cristina Herb
+* 3/7/19
+* Prom Dress assignment  
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: #FADBD8;  /* This changes the background color of the page to pink */
+    width: 80%; /* This changes the width of the text */
+    margin: auto; /* This changes the margins for the webpage */
+    font-family: Monospace, Helvetica, sans-serif; /* This changes the font of the body to monospace */
+}
+
+h1 {
+    color: white; /* This changes the  color of the font to white */
+    background-color: #FFA3C4; /* This changes the background color of the heading to dark pink */
+}
+
+
+p { 
+    color: blue; /* This changes the  color of the font to blue */
+}
+
+#redText { color: #FF2172; /* This changes the  color of the font to dark pink */
+}
+
+.greenText { color: darkblue; /* This changes the  color of the font to white */
+}
